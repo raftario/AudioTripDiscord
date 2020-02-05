@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioTripDiscord", "AudioTripDiscord\AudioTripDiscord.csproj", "{A4D0D562-9859-4DB7-BE59-E032976A12F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Misc", "Misc", "{D9A6B957-EF1F-4D42-8985-46F153C9893A}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4D0D562-9859-4DB7-BE59-E032976A12F8}.Debug|x64.ActiveCfg = Debug|x64
+		{A4D0D562-9859-4DB7-BE59-E032976A12F8}.Debug|x64.Build.0 = Debug|x64
+		{A4D0D562-9859-4DB7-BE59-E032976A12F8}.Release|x64.ActiveCfg = Release|x64
+		{A4D0D562-9859-4DB7-BE59-E032976A12F8}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FF9D3AD-9F7F-45B1-A748-C9734A2E34F5}
+	EndGlobalSection
+EndGlobal
